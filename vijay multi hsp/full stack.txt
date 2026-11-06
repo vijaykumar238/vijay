@@ -1,0 +1,5 @@
+vs code 
+node js   if node  js installed succfully then it will disply the version number   https://node js.org/dist/v20.9.0 x64 .msi
+express js :  to start you should have node and the nmp (node package manger) installed confirm that node an npm are installed by running the following  commands >node version 
+ > npm --- version   step 1 
+create folder with any name to installed
